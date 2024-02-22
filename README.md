@@ -14,14 +14,13 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/vishwaikon/Blog-Preview-Card/assets/75526380/ae7582aa-d795-4468-8c6a-41b65e88485e)
+
 
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [URL](https://blog-preview-card221.netlify.app/)
 
 
 ### Built with
